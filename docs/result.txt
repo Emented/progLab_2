@@ -1,0 +1,66 @@
+Eelektross voin_1 from the team Blue enters the battle!
+Tynamo voin_2 from the team Black enters the battle!
+Eelektross voin_1 Использует Rock Tomb. 
+Tynamo voin_2 loses 73 hit points.
+Tynamo voin_2 decreases speed.
+
+Tynamo voin_2 Использует Rock Tomb. 
+Eelektross voin_1 loses 9 hit points.
+Eelektross voin_1 decreases speed.
+
+Eelektross voin_1 Использует Rock Tomb. 
+Critical hit!
+Tynamo voin_2 loses 96 hit points.
+Tynamo voin_2 decreases speed.
+Tynamo voin_2 faints.
+Unown archer_2 from the team Black enters the battle!
+Eelektross voin_1 Использует Ice Shard. 
+Unown archer_2 loses 25 hit points.
+
+Unown archer_2 Использует Waterfall. 
+Critical hit!
+Eelektross voin_1 loses 37 hit points.
+
+Eelektross voin_1 Использует Swagger. 
+Unown archer_2 increases attack.
+
+Unown archer_2 misses
+
+Eelektross voin_1 Использует Rock Tomb. 
+Unown archer_2 loses 38 hit points.
+Unown archer_2 decreases speed.
+
+Unown archer_2 Использует Bubble Beam. 
+Eelektross voin_1 loses 12 hit points.
+
+Eelektross voin_1 Использует Rock Tomb. 
+Unown archer_2 loses 53 hit points.
+Unown archer_2 decreases speed.
+
+Unown archer_2 hits himself in confusion. 
+Unown archer_2 loses 20 hit points.
+Unown archer_2 faints.
+DarmanitanStandard castle_2 from the team Black enters the battle!
+Eelektross voin_1 Использует Rock Tomb. 
+DarmanitanStandard castle_2 loses 61 hit points.
+DarmanitanStandard castle_2 decreases speed.
+
+DarmanitanStandard castle_2 Использует Swagger. 
+Eelektross voin_1 increases attack.
+
+DarmanitanStandard castle_2 Использует Sludge Bomb. 
+Eelektross voin_1 loses 16 hit points.
+
+Eelektross voin_1 hits himself in confusion. 
+Eelektross voin_1 loses 31 hit points.
+
+DarmanitanStandard castle_2 Использует Swagger. 
+Eelektross voin_1 increases attack.
+
+Eelektross voin_1 Использует Rock Tomb. 
+Critical hit!
+DarmanitanStandard castle_2 loses 430 hit points.
+DarmanitanStandard castle_2 decreases speed.
+DarmanitanStandard castle_2 faints.
+Team Black loses its last Pokemon.
+The team Blue wins the battle!
